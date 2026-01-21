@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fake-teams-call/static/css/main.954baac4.css",
+    "main.js": "/fake-teams-call/static/js/main.5c05133f.js",
+    "index.html": "/fake-teams-call/index.html",
+    "main.954baac4.css.map": "/fake-teams-call/static/css/main.954baac4.css.map",
+    "main.5c05133f.js.map": "/fake-teams-call/static/js/main.5c05133f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954baac4.css",
+    "static/js/main.5c05133f.js"
+  ]
+}
