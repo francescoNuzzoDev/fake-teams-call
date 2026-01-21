@@ -2,6 +2,10 @@
 
 A React application that simulates a Microsoft Teams video call with fake participants.
 
+## 🚀 Live Demo
+
+**[https://francesconuzzodev.github.io/fake-teams-call/](https://francesconuzzodev.github.io/fake-teams-call/)**
+
 ## Features
 
 - **Login screen**: Enter your initials (1-3 characters) to join the meeting

@@ -166,7 +166,7 @@ function TeamsCall({ userInitials, onLeave }) {
             <div className="call-header">
                 {isSharing ? (
                     <div className="shared-screen">
-                        <img src="/shareScreen.png" alt="Schermo condiviso" className="shared-screen-image" />
+                        <img src={process.env.PUBLIC_URL + "/shareScreen.png"} alt="Schermo condiviso" className="shared-screen-image" />
                     </div>
                 ) : (
                     <div className="meeting-info">

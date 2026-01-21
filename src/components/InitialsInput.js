@@ -14,7 +14,7 @@ function InitialsInput({ onJoin }) {
     return (
         <div className="initials-input-container">
             <div className="teams-logo">
-                <img src="/logo.png" alt="Logo" width="80" height="80" />
+                <img src={process.env.PUBLIC_URL + "/logo.png"} alt="Logo" width="80" height="80" />
             </div>
             <h1>Fake Teams Call</h1>
             <p className="subtitle">Inserisci le tue iniziali per partecipare alla riunione</p>
