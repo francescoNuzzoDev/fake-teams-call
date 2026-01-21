@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fake-teams-call/static/css/main.954baac4.css",
-    "main.js": "/fake-teams-call/static/js/main.5c05133f.js",
+    "main.js": "/fake-teams-call/static/js/main.fc6031d6.js",
     "index.html": "/fake-teams-call/index.html",
     "main.954baac4.css.map": "/fake-teams-call/static/css/main.954baac4.css.map",
-    "main.5c05133f.js.map": "/fake-teams-call/static/js/main.5c05133f.js.map"
+    "main.fc6031d6.js.map": "/fake-teams-call/static/js/main.fc6031d6.js.map"
   },
   "entrypoints": [
     "static/css/main.954baac4.css",
-    "static/js/main.5c05133f.js"
+    "static/js/main.fc6031d6.js"
   ]
 }
